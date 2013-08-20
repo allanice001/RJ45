@@ -24,14 +24,6 @@ These can be installed with `pip` (The Python package manager):
 
     [sudo] pip install -r requirements.txt
 
-#### How to install `pip`
-
-    curl -O http://python-distribute.org/distribute_setup.py # or download with your browser on windows
-    python distribute_setup.py
-    easy_install pip
-    
-If you are unable to use pip, there are Windows installers for LXML available for [64 bit](https://pypi.python.org/packages/2.7/l/lxml/lxml-2.3.win-amd64-py2.7.exe) and [32 bit](https://pypi.python.org/packages/2.7/l/lxml/lxml-2.3.win32-py2.7.exe) versions of Python.
-
 ### Run
 
 Before you run the bot, rename `config.default` to `config` and edit it with your preferred settings.
@@ -39,8 +31,6 @@ Before you run the bot, rename `config.default` to `config` and edit it with you
 Once you have installed the required dependencies and renamed the config file, you can run the bot! Make sure you are in the correct folder and run the following command:
 
 `python bot.py`
-
-On Windows you can usually just double-click `bot.py` to start the bot, as long as you have Python installed correctly.
 
 ## Getting help with RJ45
 
@@ -60,13 +50,11 @@ If you think you have found a bug/have a idea/suggestion, please **open a issue*
 
 ### Requirements
 
-CloudBot runs on **Python** *2.7.x*. It is currently developed on **Windows** *8* with **Python** *2.7.5*.
+RJ45 runs on **Python** *2.7.x*.
 
 It **requires the Python module** lXML.
 The module `Enchant` is needed for the spellcheck plugin.
 The module `PyDNS` is needed for SRV record lookup in the mcping plugin.
-
-**Windows** users: Windows compatibility some plugins is **broken**.
 
 ## License
 
