@@ -5,7 +5,7 @@ Configurable IRC Bot
 
 ## About
 
-RJ45 is a Python IRC bot based on [CloudBot](http://github.com/CloudDev/CloudBot) by [CloudDev].
+RJ45 is a Python IRC bot based on [CloudBot](http://github.com/ClouDev/CloudBot) by [ClouDev].
 
 ## Getting and using RJ45
 
