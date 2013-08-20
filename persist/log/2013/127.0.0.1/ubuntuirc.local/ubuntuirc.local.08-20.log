@@ -1,0 +1,80 @@
+01:42:04 :ubuntuirc.local 353 RJ45 = #irchacks :RJ45 @allansw
+01:42:04 :ubuntuirc.local 366 RJ45 #irchacks :End of /NAMES list.
+01:42:41 :ubuntuirc.local 353 RJ45 = #irchacks :RJ45 @allansw
+01:42:41 :ubuntuirc.local 366 RJ45 #irchacks :End of /NAMES list.
+01:51:53 :ubuntuirc.local 353 RJ45 = #irchacks :RJ45 @allansw
+01:51:53 :ubuntuirc.local 366 RJ45 #irchacks :End of /NAMES list.
+01:54:23 -ubuntuirc.local- *** Spoofing your IP. congrats.
+01:54:23 -ubuntuirc.local- *** You are exempt from K/D/G lines. congrats.
+01:54:23 -ubuntuirc.local- *** You are exempt from user limits. congrats.
+01:54:23 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+01:54:23 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+01:54:23 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+01:54:23 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+01:54:23 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+01:54:23 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+01:54:23 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+01:54:23 :ubuntuirc.local 253 RJ45 1 :unknown connection(s)
+01:54:23 :ubuntuirc.local 254 RJ45 1 :channels formed
+01:54:23 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+01:54:23 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+01:54:23 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+01:54:23 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (15 connections received)
+01:54:23 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+01:54:23 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+01:54:23 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+01:54:23 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+01:54:23 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+01:54:23 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+01:54:23 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+01:54:23 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+01:54:23 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+01:54:23 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+01:54:23 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+01:54:23 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+01:54:23 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+01:54:23 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+01:54:23 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+01:54:23 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+01:54:23 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+01:54:23 :ubuntuirc.local 372 RJ45 :-             `""""    
+01:54:23 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+01:54:25 :ubuntuirc.local 353 RJ45 = #irchacks :RJ45 @allansw
+01:54:25 :ubuntuirc.local 366 RJ45 #irchacks :End of /NAMES list.
+02:22:21 -ubuntuirc.local- *** Spoofing your IP. congrats.
+02:22:21 -ubuntuirc.local- *** You are exempt from K/D/G lines. congrats.
+02:22:21 -ubuntuirc.local- *** You are exempt from user limits. congrats.
+02:22:21 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+02:22:21 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+02:22:21 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+02:22:21 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+02:22:21 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+02:22:21 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+02:22:21 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+02:22:21 :ubuntuirc.local 253 RJ45 1 :unknown connection(s)
+02:22:21 :ubuntuirc.local 254 RJ45 1 :channels formed
+02:22:21 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+02:22:21 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+02:22:21 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+02:22:21 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (16 connections received)
+02:22:21 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+02:22:21 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+02:22:21 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+02:22:21 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+02:22:21 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+02:22:21 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+02:22:21 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+02:22:21 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+02:22:21 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+02:22:21 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+02:22:21 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+02:22:21 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+02:22:21 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+02:22:21 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+02:22:21 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+02:22:21 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+02:22:21 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+02:22:21 :ubuntuirc.local 372 RJ45 :-             `""""    
+02:22:21 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+02:25:57 :ubuntuirc.local 353 RJ45 = #irchacks :RJ45 @allansw
+02:25:57 :ubuntuirc.local 366 RJ45 #irchacks :End of /NAMES list.

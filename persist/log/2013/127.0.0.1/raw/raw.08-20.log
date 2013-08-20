@@ -1,0 +1,330 @@
+00:01:50 PING :ubuntuirc.local
+00:06:55 PING :ubuntuirc.local
+00:12:00 PING :ubuntuirc.local
+00:17:05 PING :ubuntuirc.local
+00:22:10 PING :ubuntuirc.local
+00:27:15 PING :ubuntuirc.local
+00:32:20 PING :ubuntuirc.local
+00:37:25 PING :ubuntuirc.local
+00:42:31 PING :ubuntuirc.local
+00:47:35 PING :ubuntuirc.local
+00:52:40 PING :ubuntuirc.local
+00:57:45 PING :ubuntuirc.local
+01:02:50 PING :ubuntuirc.local
+01:07:56 PING :ubuntuirc.local
+01:13:00 PING :ubuntuirc.local
+01:18:05 PING :ubuntuirc.local
+01:23:10 PING :ubuntuirc.local
+01:28:15 PING :ubuntuirc.local
+01:33:20 PING :ubuntuirc.local
+01:38:25 PING :ubuntuirc.local
+01:41:20 :allansw!allansw@172.17.1.5 JOIN :#devsupport
+01:42:04 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!join #irchacks
+01:42:04 :RJ45!RJ45@ubuntuirc.local JOIN :#irchacks
+01:42:04 :ubuntuirc.local 353 RJ45 = #irchacks :RJ45 @allansw
+01:42:04 :ubuntuirc.local 366 RJ45 #irchacks :End of /NAMES list.
+01:42:12 :allansw!allansw@172.17.1.5 MODE #irchacks +o RJ45
+01:42:17 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!help
+01:42:30 :allansw!allansw@172.17.1.5 PART #devsupport :Leaving
+01:42:41 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!cycle
+01:42:41 :RJ45!RJ45@ubuntuirc.local PART #irchacks
+01:42:41 :RJ45!RJ45@ubuntuirc.local JOIN :#irchacks
+01:42:41 :ubuntuirc.local 353 RJ45 = #irchacks :RJ45 @allansw
+01:42:41 :ubuntuirc.local 366 RJ45 #irchacks :End of /NAMES list.
+01:47:45 PING :ubuntuirc.local
+01:50:41 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!flirt allans
+01:50:46 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!flirt allansw 
+01:50:49 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!flirt allansw 
+01:50:57 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!flirt allansw 
+01:51:00 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!flirt allansw 
+01:51:03 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!flirt allansw 
+01:51:07 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!flirt allansw 
+01:51:09 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!flirt allansw 
+01:51:14 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!help
+01:51:21 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:51:23 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:51:24 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:51:37 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:51:38 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:51:41 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:51:43 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:51:53 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!cycle
+01:51:53 :RJ45!RJ45@ubuntuirc.local PART #irchacks
+01:51:53 :RJ45!RJ45@ubuntuirc.local JOIN :#irchacks
+01:51:53 :ubuntuirc.local 353 RJ45 = #irchacks :RJ45 @allansw
+01:51:53 :ubuntuirc.local 366 RJ45 #irchacks :End of /NAMES list.
+01:51:55 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:52:09 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:52:18 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:52:28 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:52:31 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:52:34 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:52:38 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:52:42 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:52:48 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:52:52 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:52:56 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:53:00 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:53:02 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:53:07 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:53:11 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:53:18 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:53:20 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:53:23 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lart allansw 
+01:53:34 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:53:55 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+01:53:55 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+01:53:55 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+01:54:23 :ubuntuirc.local NOTICE AUTH :*** Couldn't look up your hostname
+01:54:23 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+01:54:23 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+01:54:23 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+01:54:23 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+01:54:23 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+01:54:23 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+01:54:23 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+01:54:23 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+01:54:23 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+01:54:23 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+01:54:23 :ubuntuirc.local 253 RJ45 1 :unknown connection(s)
+01:54:23 :ubuntuirc.local 254 RJ45 1 :channels formed
+01:54:23 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+01:54:23 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+01:54:23 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+01:54:23 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (15 connections received)
+01:54:23 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+01:54:23 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+01:54:23 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+01:54:23 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+01:54:23 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+01:54:23 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+01:54:23 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+01:54:23 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+01:54:23 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+01:54:23 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+01:54:23 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+01:54:23 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+01:54:23 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+01:54:23 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+01:54:23 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+01:54:23 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+01:54:23 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+01:54:23 :ubuntuirc.local 372 RJ45 :-             `""""    
+01:54:23 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+01:54:23 :RJ45!RJ45@ubuntuirc.local MODE RJ45 :+i
+01:54:24 :allansw!allansw@172.17.1.5 PRIVMSG RJ45 :!join #irchacks
+01:54:25 :RJ45!RJ45@ubuntuirc.local JOIN :#irchacks
+01:54:25 :ubuntuirc.local 353 RJ45 = #irchacks :RJ45 @allansw
+01:54:25 :ubuntuirc.local 366 RJ45 #irchacks :End of /NAMES list.
+01:54:39 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:54:42 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:54:44 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:54:48 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:54:53 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:54:56 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:54:59 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:55:04 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:55:07 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:55:10 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:55:12 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:55:15 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:55:18 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:55:20 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:55:21 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:55:24 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:55:27 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:55:29 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!slap allansw 
+01:56:38 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!help
+01:56:49 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!beats allansw 
+02:01:50 PING :ubuntuirc.local
+02:06:55 PING :ubuntuirc.local
+02:07:07 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :mypass
+02:07:18 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :RJ45, mypass
+02:12:00 PING :ubuntuirc.local
+02:21:53 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+02:21:53 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+02:21:53 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+02:22:21 :ubuntuirc.local NOTICE AUTH :*** Couldn't look up your hostname
+02:22:21 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+02:22:21 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+02:22:21 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+02:22:21 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+02:22:21 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+02:22:21 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+02:22:21 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+02:22:21 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+02:22:21 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+02:22:21 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+02:22:21 :ubuntuirc.local 253 RJ45 1 :unknown connection(s)
+02:22:21 :ubuntuirc.local 254 RJ45 1 :channels formed
+02:22:21 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+02:22:21 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+02:22:21 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+02:22:21 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (16 connections received)
+02:22:21 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+02:22:21 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+02:22:21 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+02:22:21 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+02:22:21 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+02:22:21 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+02:22:21 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+02:22:21 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+02:22:21 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+02:22:21 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+02:22:21 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+02:22:21 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+02:22:21 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+02:22:21 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+02:22:21 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+02:22:21 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+02:22:21 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+02:22:21 :ubuntuirc.local 372 RJ45 :-             `""""    
+02:22:21 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+02:22:21 :RJ45!RJ45@ubuntuirc.local MODE RJ45 :+i
+02:25:57 :allansw!allansw@172.17.1.5 PRIVMSG RJ45 :!join #irchacks
+02:25:57 :RJ45!RJ45@ubuntuirc.local JOIN :#irchacks
+02:25:57 :ubuntuirc.local 353 RJ45 = #irchacks :RJ45 @allansw
+02:25:57 :ubuntuirc.local 366 RJ45 #irchacks :End of /NAMES list.
+02:26:04 :allansw!allansw@172.17.1.5 MODE #irchacks +o RJ45
+02:26:17 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!help
+02:26:35 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!time
+02:26:40 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!time GMT
+02:26:53 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!system
+02:27:21 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:27:32 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:27:39 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:27:53 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:28:02 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:28:05 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:28:13 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:28:18 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:28:21 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:28:27 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:28:32 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:28:36 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:28:39 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:28:47 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:28:49 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:28:56 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:28:58 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:00 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:02 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:04 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:05 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:06 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:08 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:10 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:13 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:15 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:16 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:17 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:18 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:21 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:21 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:22 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:23 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:24 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:26 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:30 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:32 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:34 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:36 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:38 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:40 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:42 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:44 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:46 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:48 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:50 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:52 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:54 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:29:56 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:00 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:02 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:04 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:06 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:08 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:10 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:12 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:14 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:16 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:18 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:20 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:22 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:24 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:26 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:31 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:33 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:35 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:30:37 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!insult allansw 
+02:35:40 PING :ubuntuirc.local
+02:40:45 PING :ubuntuirc.local
+02:45:50 PING :ubuntuirc.local
+02:48:19 :allansw!allansw@172.17.1.5 PART #irchacks :Leaving
+02:48:26 :allansw!allansw@172.17.1.5 JOIN :#irchacks
+02:48:32 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!op allansw 
+02:48:32 :RJ45!RJ45@ubuntuirc.local MODE #irchacks +o allansw
+02:48:43 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!help
+02:49:03 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lmgtfy help
+02:54:11 PING :ubuntuirc.local
+02:59:15 PING :ubuntuirc.local
+03:04:20 PING :ubuntuirc.local
+03:09:25 PING :ubuntuirc.local
+03:14:30 PING :ubuntuirc.local
+03:19:35 PING :ubuntuirc.local
+03:24:40 PING :ubuntuirc.local
+03:25:32 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!lmgtfy help
+03:29:45 PING :ubuntuirc.local
+03:34:50 PING :ubuntuirc.local
+03:39:56 PING :ubuntuirc.local
+03:45:00 PING :ubuntuirc.local
+03:50:05 PING :ubuntuirc.local
+03:55:10 PING :ubuntuirc.local
+04:00:15 PING :ubuntuirc.local
+04:05:20 PING :ubuntuirc.local
+04:10:25 PING :ubuntuirc.local
+04:15:31 PING :ubuntuirc.local
+04:20:35 PING :ubuntuirc.local
+04:25:40 PING :ubuntuirc.local
+04:30:45 PING :ubuntuirc.local
+04:35:50 PING :ubuntuirc.local
+04:40:55 PING :ubuntuirc.local
+04:46:00 PING :ubuntuirc.local
+04:49:00 :allansw!allansw@172.17.1.5 QUIT :Ping timeout: 240 seconds
+04:51:05 PING :ubuntuirc.local
+04:56:10 PING :ubuntuirc.local
+05:01:15 PING :ubuntuirc.local
+05:06:20 PING :ubuntuirc.local
+05:11:25 PING :ubuntuirc.local
+05:16:30 PING :ubuntuirc.local
+05:21:35 PING :ubuntuirc.local
+05:26:40 PING :ubuntuirc.local
+05:31:45 PING :ubuntuirc.local
+05:36:50 PING :ubuntuirc.local
+05:41:55 PING :ubuntuirc.local
+05:47:00 PING :ubuntuirc.local
+05:52:05 PING :ubuntuirc.local
+05:57:10 PING :ubuntuirc.local
+06:02:15 PING :ubuntuirc.local
+06:07:20 PING :ubuntuirc.local
+06:12:25 PING :ubuntuirc.local
+06:17:30 PING :ubuntuirc.local
+06:22:35 PING :ubuntuirc.local
+06:27:40 PING :ubuntuirc.local
+06:32:45 PING :ubuntuirc.local
+06:37:50 PING :ubuntuirc.local
+06:42:56 PING :ubuntuirc.local
+06:48:00 PING :ubuntuirc.local
+06:53:05 PING :ubuntuirc.local
+06:58:10 PING :ubuntuirc.local
+07:03:15 PING :ubuntuirc.local
+07:08:20 PING :ubuntuirc.local
+07:12:53 :allansw!allansw@172.17.1.5 JOIN :#irchacks
+07:13:00 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!op allansw 
+07:13:00 :RJ45!RJ45@ubuntuirc.local MODE #irchacks +o allansw
+07:13:05 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!help
+07:13:10 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!pid
+07:15:23 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!bug
+07:15:37 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!help bug
+07:18:52 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!about
+07:20:10 :allansw!allansw@172.17.1.5 PRIVMSG #irchacks :!about

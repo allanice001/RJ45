@@ -1,0 +1,174 @@
+15:50:51 <allansw> !restart
+15:54:50 -!- RJ45 [RJ45@i.love.debian.org] has joined #devsupport
+16:02:03 <allansw> !help
+16:02:08 <allansw> !case 12345
+16:02:17 <allansw> !help
+16:02:25 <allansw> !help case
+16:05:45 <allansw> !help case
+16:06:46 <allansw> !help tt
+16:06:54 <allansw> !tt 1234567890
+16:07:28 <allansw> !tt 1234567890
+16:15:17 <allansw> !help
+16:18:32 <allansw> !help
+16:18:39 <allansw> !cycle
+16:18:39 -!- RJ45 [RJ45@i.love.debian.org] has left #devsupport
+16:18:39 -!- RJ45 [RJ45@i.love.debian.org] has joined #devsupport
+16:21:59 -!- RJ45 [RJ45@ubuntuirc.local] has joined #devsupport
+16:22:03 <allansw> !help
+16:23:31 <allansw> !help raw
+16:24:21 <allansw> !customer allansw@amazon.com
+16:32:36 <allansw> !mball
+16:32:42 <allansw> !mball What Gives
+16:32:46 <allansw> !help
+16:36:47 <allansw> !help
+16:36:55 <allansw> !mball
+16:36:59 <allansw> !mball What Gives
+16:37:08 <allansw> !8ball What Gives
+16:37:50 <allansw> !8ball What Gives
+16:37:52 <allansw> !mball What Gives
+16:38:11 -!- RJ45 [RJ45@ubuntuirc.local] has joined #devsupport
+16:38:14 <allansw> !mball What Gives
+16:38:18 <allansw> !mball What Gives
+16:38:22 <allansw> !mball What Gives
+16:38:23 <allansw> !mball What Gives
+16:38:25 <allansw> !mball What Gives
+16:38:26 <allansw> !mball What Gives
+16:38:28 <allansw> !mball What Gives
+16:38:30 <allansw> !mball What Gives
+16:38:56 <allansw> !help
+16:39:19 <allansw> !help nick
+16:39:34 <allansw> !nick RJ4t5-test
+16:39:40 <allansw> !nick RJ45-test
+16:39:44 <allansw> !nick RJ45test
+16:39:50 <allansw> !nick RJ45
+16:40:18 <allansw> !join #devsupport-vpc
+16:40:27 <allansw> !join #devsupport-vpc
+16:47:38 <allansw> !help
+16:47:45 <allansw> !help todo
+16:50:07 <allansw> !about
+16:50:13 <allansw> !help
+16:50:22 <allansw> !clearlogs
+16:50:32 <allansw> !help
+16:52:43 -!- RJ45 [RJ45@ubuntuirc.local] has joined #devsupport
+16:52:46 <allansw> !help
+16:53:44 <allansw> !help
+16:53:52 <allansw> !about
+16:53:57 <allansw> !help about
+16:59:41 <allansw> !help k2
+16:59:57 <allansw> !k2 allansw@amazon.com
+17:43:06 -!- RJ45 [RJ45@ubuntuirc.local] has joined #devsupport
+17:43:12 <allansw> !help
+17:43:28 <allansw> !help todo
+17:43:40 <allansw> !todo list
+17:43:56 <allansw> !tt
+17:47:11 -!- RJ45 [RJ45@ubuntuirc.local] has joined #devsupport
+17:47:17 <allansw> !help
+17:47:29 <allansw> !adduser allansw
+17:47:33 <allansw> !adduser allansw op
+17:47:46 <allansw> !adduser allansw!allansw@irc.local op
+17:50:53 <allansw> !help
+17:50:59 <allansw> !help op
+17:51:12 <allansw> !op #devsupport RJ45 
+17:51:20 -!- mode/#devsupport [+o RJ45] by allansw
+17:51:30 <allansw> !deop #devsupport allansw 
+17:51:30 -!- mode/#devsupport [-o allansw] by RJ45
+17:51:36 <allansw> !op #devsupport allansw 
+17:51:36 -!- mode/#devsupport [+o allansw] by RJ45
+17:51:59 <allansw> !deop #devsupport allansw 
+17:52:00 -!- mode/#devsupport [-o allansw] by RJ45
+17:52:05 <allansw> !voice #devsupport allansw 
+17:52:05 -!- mode/#devsupport [+v allansw] by RJ45
+17:52:15 <allansw> !devoice #devsupport allansw 
+17:52:15 -!- mode/#devsupport [-v allansw] by RJ45
+17:52:18 <allansw> !op #devsupport allansw 
+17:52:18 -!- mode/#devsupport [+o allansw] by RJ45
+17:52:47 <allansw> !help quiet
+17:53:16 <allansw> !topic Hello Cruel World
+17:53:16 -!- RJ45 changed the topic of #devsupport to: Hello Cruel World
+18:46:38 -!- RJ45 [RJ45@ubuntuirc.local] has joined #devsupport
+18:46:43 -!- mode/#devsupport [+o RJ45] by allansw
+18:46:50 <allansw> !deop allansw 
+18:46:50 -!- mode/#devsupport [-o allansw] by RJ45
+18:47:13 <allansw> !op allansw 
+18:47:13 -!- mode/#devsupport [+o allansw] by RJ45
+18:47:18 <allansw> !help
+18:47:46 <allansw> !k2 test@amazon.com
+18:52:04 <allansw> !help
+18:52:10 <allansw> !coffee
+18:52:17 <allansw> !coffee allansw 
+18:52:40 <allansw> !help coffee
+18:52:47 <allansw> !coffee
+18:52:50 <allansw> !coffee allansw 
+18:53:31 <allansw> !coffee allansw 
+18:54:15 <allansw> !cycle
+18:54:16 -!- RJ45 [RJ45@ubuntuirc.local] has left #devsupport
+18:54:16 -!- RJ45 [RJ45@ubuntuirc.local] has joined #devsupport
+18:54:25 <allansw> !op RJ45 
+18:54:30 -!- mode/#devsupport [+o RJ45] by allansw
+18:55:30 <allansw> !deop RJ45 
+18:55:30 -!- mode/#devsupport [-o RJ45] by RJ45
+18:55:37 -!- mode/#devsupport [+o RJ45] by allansw
+18:55:42 <allansw> !voice RJ45 
+18:55:42 -!- mode/#devsupport [+v RJ45] by RJ45
+18:56:14 <allansw> !deop RJ45 
+18:56:14 -!- mode/#devsupport [-o RJ45] by RJ45
+18:56:20 <allansw> !op RJ45 
+18:56:28 -!- mode/#devsupport [+o RJ45] by allansw
+18:56:34 <allansw> !devoice RJ45 
+18:56:34 -!- mode/#devsupport [-v RJ45] by RJ45
+18:56:42 <allansw> !todo
+18:57:03 <allansw> !todo add Update RJ45 on AWS
+18:57:08 <allansw> !todo list
+18:57:19 <allansw> !todo search RJ45
+18:57:26 <allansw> !nick
+18:57:32 <allansw> !help
+18:58:56 <allansw> !coffee allansw 
+19:08:29 -!- RJ45 [RJ45@ubuntuirc.local] has joined #devsupport
+19:08:39 <allansw> !todo list
+19:09:11 -!- mode/#devsupport [+o RJ45] by allansw
+19:09:16 <allansw> !coffee allansw 
+19:09:21 <allansw> !help
+19:10:02 <allansw> !coffee allansw 
+19:10:16 <allansw> !help coffee
+19:11:24 -!- RJ45 [RJ45@ubuntuirc.local] has joined #devsupport
+19:11:27 <allansw> !coffee allansw 
+19:20:41 <allansw> !help
+19:20:58 <allansw> !help
+19:21:09 <allansw> !help!pid
+19:21:13 <allansw> !help pid
+19:21:16 <allansw> !pid
+19:22:15 <allansw> !time
+19:22:20 <allansw> !time SAST
+19:30:12 <allansw> !time SAST
+19:30:28 <allansw> !time Johannesburg
+19:30:41 <allansw> !time Africa/Johannesburg
+19:30:55 <allansw> !time GMT
+19:32:39 <allansw> !help
+19:32:50 <allansw> !help beats
+19:33:00 <allansw> !beats
+19:35:12 <allansw> !memory
+19:35:39 <allansw> !help remove
+19:42:48 <allansw> !help
+19:43:05 <allansw> !help
+19:43:07 <allansw> !help
+19:43:08 <allansw> !help
+19:43:13 <allansw> !uptime
+19:43:30 <allansw> !permissions
+19:44:01 <allansw> !permissions allansw!allansw@irc.local admins
+19:44:24 <allansw> !permissions allansw!allansw@irc.local moderators
+19:44:33 -!- mode/#devsupport [+o RJ45] by allansw
+19:44:41 <allansw> !permissions allansw!allansw@irc.local admins
+19:44:47 <allansw> !help permissions
+19:44:58 <allansw> !permissions admins
+19:45:10 <allansw> !permissions moderators
+19:45:57 <allansw> !permissions moderators
+19:46:00 <allansw> !permissions admins
+19:46:09 <allansw> !reload
+19:46:23 <allansw> !cycle
+19:46:23 -!- RJ45 [RJ45@ubuntuirc.local] has left #devsupport
+19:46:23 -!- RJ45 [RJ45@ubuntuirc.local] has joined #devsupport
+19:47:30 <allansw> !cycle
+19:47:31 -!- RJ45 [RJ45@ubuntuirc.local] has left #devsupport
+19:47:31 -!- RJ45 [RJ45@ubuntuirc.local] has joined #devsupport
+19:47:33 <allansw> !permissions admins
+19:47:43 <allansw> !help

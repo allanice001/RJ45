@@ -1,0 +1,784 @@
+15:50:51 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!restart
+15:50:51 ERROR :Closing Link: i.love.debian.org (Quit: Restarted by allansw.)
+15:53:00 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+15:53:00 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+15:53:00 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+15:53:00 :ubuntuirc.local NOTICE AUTH :*** Found your hostname
+15:53:00 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+15:53:00 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+15:53:00 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+15:53:00 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+15:53:00 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+15:53:00 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+15:53:00 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+15:53:00 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+15:53:00 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+15:53:00 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+15:53:00 :ubuntuirc.local 253 RJ45 1 :unknown connection(s)
+15:53:00 :ubuntuirc.local 254 RJ45 2 :channels formed
+15:53:00 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+15:53:00 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 3
+15:53:00 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 3
+15:53:00 :ubuntuirc.local 250 RJ45 :Highest connection count: 3 (3 clients) (16 connections received)
+15:53:00 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+15:53:00 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+15:53:00 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+15:53:00 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+15:53:00 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+15:53:00 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+15:53:00 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+15:53:00 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+15:53:00 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+15:53:00 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+15:53:00 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+15:53:00 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+15:53:00 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+15:53:00 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+15:53:00 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+15:53:00 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+15:53:00 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+15:53:00 :ubuntuirc.local 372 RJ45 :-             `""""    
+15:53:00 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+15:53:00 :RJ45!RJ45@i.love.debian.org MODE RJ45 :+i
+15:54:50 :allansw!allansw@172.17.1.5 PRIVMSG RJ45 :!join #devsupport
+15:54:50 :RJ45!RJ45@i.love.debian.org JOIN :#devsupport
+15:54:50 :ubuntuirc.local 353 RJ45 = #devsupport :RJ45 @allansw
+15:54:50 :ubuntuirc.local 366 RJ45 #devsupport :End of /NAMES list.
+15:59:53 PING :ubuntuirc.local
+16:02:03 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+16:02:08 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!case 12345
+16:02:17 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+16:02:25 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help case
+16:05:45 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help case
+16:06:46 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help tt
+16:06:54 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!tt 1234567890
+16:07:28 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!tt 1234567890
+16:12:33 PING :ubuntuirc.local
+16:15:17 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+16:18:32 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+16:18:39 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!cycle
+16:18:39 :RJ45!RJ45@i.love.debian.org PART #devsupport
+16:18:39 :RJ45!RJ45@i.love.debian.org JOIN :#devsupport
+16:18:39 :ubuntuirc.local 353 RJ45 = #devsupport :RJ45 @allansw
+16:18:39 :ubuntuirc.local 366 RJ45 #devsupport :End of /NAMES list.
+16:20:54 :ubuntuirc.local NOTICE RJ45 :Server Terminating: received signal SIGTERM
+16:21:37 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+16:21:37 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+16:21:37 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+16:21:37 :ubuntuirc.local NOTICE AUTH :*** Found your hostname
+16:21:37 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+16:21:37 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+16:21:37 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+16:21:37 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+16:21:37 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+16:21:37 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+16:21:37 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+16:21:37 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+16:21:37 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+16:21:37 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+16:21:37 :ubuntuirc.local 254 RJ45 2 :channels formed
+16:21:37 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+16:21:37 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+16:21:37 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+16:21:37 :ubuntuirc.local 250 RJ45 :Highest connection count: 1 (1 clients) (2 connections received)
+16:21:37 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+16:21:37 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+16:21:37 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+16:21:37 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+16:21:37 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+16:21:37 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+16:21:37 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+16:21:37 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+16:21:37 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+16:21:38 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+16:21:38 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+16:21:38 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+16:21:38 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+16:21:38 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+16:21:38 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+16:21:38 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+16:21:38 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+16:21:38 :ubuntuirc.local 372 RJ45 :-             `""""    
+16:21:38 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+16:21:38 :RJ45!RJ45@ubuntuirc.local MODE RJ45 :+i
+16:21:59 :allansw!allansw@172.17.1.5 PRIVMSG RJ45 :!join #devsupport
+16:21:59 :RJ45!RJ45@ubuntuirc.local JOIN :#devsupport
+16:21:59 :ubuntuirc.local 353 RJ45 = #devsupport :RJ45 @allansw
+16:21:59 :ubuntuirc.local 366 RJ45 #devsupport :End of /NAMES list.
+16:22:03 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+16:23:31 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help raw
+16:24:21 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!customer allansw@amazon.com
+16:29:25 PING :ubuntuirc.local
+16:32:36 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!mball
+16:32:42 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!mball What Gives
+16:32:46 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+16:36:47 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+16:36:55 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!mball
+16:36:59 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!mball What Gives
+16:37:08 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!8ball What Gives
+16:37:50 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!8ball What Gives
+16:37:52 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!mball What Gives
+16:38:03 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+16:38:03 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+16:38:03 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+16:38:03 :ubuntuirc.local NOTICE AUTH :*** Found your hostname
+16:38:03 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+16:38:03 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+16:38:03 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+16:38:03 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+16:38:03 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+16:38:03 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+16:38:03 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+16:38:03 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+16:38:03 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+16:38:03 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+16:38:03 :ubuntuirc.local 254 RJ45 2 :channels formed
+16:38:03 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+16:38:03 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+16:38:03 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+16:38:03 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (3 connections received)
+16:38:03 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+16:38:03 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+16:38:03 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+16:38:03 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+16:38:03 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+16:38:03 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+16:38:03 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+16:38:03 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+16:38:03 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+16:38:03 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+16:38:03 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+16:38:03 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+16:38:03 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+16:38:03 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+16:38:03 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+16:38:03 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+16:38:03 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+16:38:03 :ubuntuirc.local 372 RJ45 :-             `""""    
+16:38:03 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+16:38:03 :RJ45!RJ45@ubuntuirc.local MODE RJ45 :+i
+16:38:11 :allansw!allansw@172.17.1.5 PRIVMSG RJ45 :!join #devsupport
+16:38:11 :RJ45!RJ45@ubuntuirc.local JOIN :#devsupport
+16:38:11 :ubuntuirc.local 353 RJ45 = #devsupport :RJ45 @allansw
+16:38:11 :ubuntuirc.local 366 RJ45 #devsupport :End of /NAMES list.
+16:38:14 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!mball What Gives
+16:38:18 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!mball What Gives
+16:38:22 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!mball What Gives
+16:38:23 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!mball What Gives
+16:38:25 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!mball What Gives
+16:38:26 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!mball What Gives
+16:38:28 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!mball What Gives
+16:38:30 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!mball What Gives
+16:38:56 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+16:39:19 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help nick
+16:39:34 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!nick RJ4t5-test
+16:39:40 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!nick RJ45-test
+16:39:44 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!nick RJ45test
+16:39:44 :RJ45!RJ45@ubuntuirc.local NICK :RJ45test
+16:39:50 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!nick RJ45
+16:39:50 :RJ45test!RJ45@ubuntuirc.local NICK :RJ45
+16:40:18 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!join #devsupport-vpc
+16:40:18 :RJ45!RJ45@ubuntuirc.local JOIN :#devsupport-vpc
+16:40:18 :ubuntuirc.local MODE #devsupport-vpc +nt
+16:40:18 :ubuntuirc.local 353 RJ45 = #devsupport-vpc :@RJ45
+16:40:18 :ubuntuirc.local 366 RJ45 #devsupport-vpc :End of /NAMES list.
+16:40:27 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!join #devsupport-vpc
+16:40:45 :allansw!allansw@172.17.1.5 JOIN :#devsupport-vpc
+16:40:51 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport-vpc :!help
+16:43:28 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport-vpc :!help permissions
+16:43:48 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport-vpc :!permissions allansw
+16:43:55 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport-vpc :!permissions RJ45
+16:44:35 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport-vpc :!mball help
+16:44:42 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport-vpc :!mball help
+16:44:44 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport-vpc :!mball help
+16:44:45 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport-vpc :!mball help
+16:47:38 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+16:47:45 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help todo
+16:50:07 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!about
+16:50:13 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+16:50:22 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!clearlogs
+16:50:32 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+16:52:24 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+16:52:24 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+16:52:24 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+16:52:24 :ubuntuirc.local NOTICE AUTH :*** Found your hostname
+16:52:24 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+16:52:24 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+16:52:24 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+16:52:24 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+16:52:24 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+16:52:24 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+16:52:24 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+16:52:24 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+16:52:24 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+16:52:24 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+16:52:24 :ubuntuirc.local 254 RJ45 2 :channels formed
+16:52:24 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+16:52:24 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+16:52:24 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+16:52:24 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (4 connections received)
+16:52:24 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+16:52:24 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+16:52:24 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+16:52:24 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+16:52:24 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+16:52:24 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+16:52:24 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+16:52:24 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+16:52:24 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+16:52:24 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+16:52:24 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+16:52:24 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+16:52:24 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+16:52:24 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+16:52:24 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+16:52:24 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+16:52:24 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+16:52:24 :ubuntuirc.local 372 RJ45 :-             `""""    
+16:52:24 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+16:52:24 :RJ45!RJ45@ubuntuirc.local MODE RJ45 :+i
+16:52:43 :allansw!allansw@172.17.1.5 PRIVMSG RJ45 :!join #devsupport
+16:52:43 :RJ45!RJ45@ubuntuirc.local JOIN :#devsupport
+16:52:43 :ubuntuirc.local 353 RJ45 = #devsupport :RJ45 @allansw
+16:52:43 :ubuntuirc.local 366 RJ45 #devsupport :End of /NAMES list.
+16:52:46 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+16:53:44 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+16:53:52 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!about
+16:53:57 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help about
+16:59:00 PING :ubuntuirc.local
+16:59:41 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help k2
+16:59:57 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!k2 allansw@amazon.com
+17:04:30 :allansw!allansw@172.17.1.5 QUIT :Ping timeout: 240 seconds
+17:05:00 PING :ubuntuirc.local
+17:10:05 PING :ubuntuirc.local
+17:15:10 PING :ubuntuirc.local
+17:20:15 PING :ubuntuirc.local
+17:42:02 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+17:42:02 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+17:42:02 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+17:42:02 :ubuntuirc.local NOTICE AUTH :*** Found your hostname
+17:42:02 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+17:42:02 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+17:42:02 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+17:42:02 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+17:42:02 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+17:42:02 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+17:42:02 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+17:42:02 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+17:42:02 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+17:42:02 :ubuntuirc.local 251 RJ45 :There are 0 users and 1 invisible on 1 servers
+17:42:02 :ubuntuirc.local 255 RJ45 :I have 1 clients and 0 servers
+17:42:02 :ubuntuirc.local 265 RJ45 :Current local users: 1  Max: 2
+17:42:02 :ubuntuirc.local 266 RJ45 :Current global users: 1  Max: 2
+17:42:02 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (5 connections received)
+17:42:02 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+17:42:02 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+17:42:02 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+17:42:02 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+17:42:02 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+17:42:02 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+17:42:02 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+17:42:02 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+17:42:02 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+17:42:02 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+17:42:02 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+17:42:02 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+17:42:02 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+17:42:02 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+17:42:02 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+17:42:02 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+17:42:02 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+17:42:02 :ubuntuirc.local 372 RJ45 :-             `""""    
+17:42:02 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+17:42:02 :RJ45!RJ45@ubuntuirc.local MODE RJ45 :+i
+17:43:06 :allansw!allansw@172.17.1.5 PRIVMSG RJ45 :!join #devsupport
+17:43:06 :RJ45!RJ45@ubuntuirc.local JOIN :#devsupport
+17:43:06 :ubuntuirc.local 353 RJ45 = #devsupport :RJ45 @allansw
+17:43:06 :ubuntuirc.local 366 RJ45 #devsupport :End of /NAMES list.
+17:43:12 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+17:43:28 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help todo
+17:43:40 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!todo list
+17:43:56 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!tt
+17:46:16 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+17:46:16 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+17:46:16 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+17:46:16 :ubuntuirc.local NOTICE AUTH :*** Found your hostname
+17:46:16 :ubuntuirc.local 433 * RJ45 :Nickname is already in use.
+17:46:40 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+17:46:40 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+17:46:40 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+17:46:40 :ubuntuirc.local NOTICE AUTH :*** Found your hostname
+17:46:40 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+17:46:40 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+17:46:40 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+17:46:40 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+17:46:40 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+17:46:40 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+17:46:40 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+17:46:40 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+17:46:40 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+17:46:40 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+17:46:40 :ubuntuirc.local 254 RJ45 2 :channels formed
+17:46:40 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+17:46:40 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+17:46:40 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+17:46:40 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (7 connections received)
+17:46:40 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+17:46:40 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+17:46:40 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+17:46:40 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+17:46:40 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+17:46:40 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+17:46:40 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+17:46:40 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+17:46:40 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+17:46:40 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+17:46:40 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+17:46:40 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+17:46:40 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+17:46:40 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+17:46:40 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+17:46:40 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+17:46:40 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+17:46:40 :ubuntuirc.local 372 RJ45 :-             `""""    
+17:46:40 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+17:46:40 :RJ45!RJ45@ubuntuirc.local MODE RJ45 :+i
+17:46:46 ERROR :Trying to reconnect too fast.
+17:46:56 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+17:46:56 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+17:46:56 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+17:46:56 :ubuntuirc.local NOTICE AUTH :*** Found your hostname
+17:46:56 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+17:46:56 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+17:46:56 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+17:46:56 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+17:46:56 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+17:46:56 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+17:46:56 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+17:46:56 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+17:46:56 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+17:46:56 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+17:46:56 :ubuntuirc.local 254 RJ45 2 :channels formed
+17:46:56 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+17:46:56 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+17:46:56 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+17:46:56 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (8 connections received)
+17:46:56 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+17:46:56 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+17:46:56 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+17:46:56 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+17:46:56 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+17:46:56 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+17:46:56 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+17:46:56 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+17:46:56 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+17:46:56 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+17:46:56 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+17:46:56 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+17:46:56 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+17:46:56 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+17:46:56 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+17:46:56 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+17:46:56 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+17:46:56 :ubuntuirc.local 372 RJ45 :-             `""""    
+17:46:56 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+17:46:56 :RJ45!RJ45@ubuntuirc.local MODE RJ45 :+i
+17:47:11 :allansw!allansw@172.17.1.5 PRIVMSG RJ45 :!join #devsupport
+17:47:11 :RJ45!RJ45@ubuntuirc.local JOIN :#devsupport
+17:47:11 :ubuntuirc.local 353 RJ45 = #devsupport :RJ45 @allansw
+17:47:11 :ubuntuirc.local 366 RJ45 #devsupport :End of /NAMES list.
+17:47:17 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+17:47:29 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!adduser allansw
+17:47:33 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!adduser allansw op
+17:47:46 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!adduser allansw!allansw@irc.local op
+17:50:53 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+17:50:59 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help op
+17:51:12 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!op #devsupport RJ45 
+17:51:12 :ubuntuirc.local 482 RJ45 #devsupport :You're not channel operator
+17:51:20 :allansw!allansw@172.17.1.5 MODE #devsupport +o RJ45
+17:51:30 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!deop #devsupport allansw 
+17:51:30 :RJ45!RJ45@ubuntuirc.local MODE #devsupport -o allansw
+17:51:36 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!op #devsupport allansw 
+17:51:36 :RJ45!RJ45@ubuntuirc.local MODE #devsupport +o allansw
+17:51:59 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!deop #devsupport allansw 
+17:52:00 :RJ45!RJ45@ubuntuirc.local MODE #devsupport -o allansw
+17:52:05 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!voice #devsupport allansw 
+17:52:05 :RJ45!RJ45@ubuntuirc.local MODE #devsupport +v allansw
+17:52:15 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!devoice #devsupport allansw 
+17:52:15 :RJ45!RJ45@ubuntuirc.local MODE #devsupport -v allansw
+17:52:18 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!op #devsupport allansw 
+17:52:18 :RJ45!RJ45@ubuntuirc.local MODE #devsupport +o allansw
+17:52:47 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help quiet
+17:53:16 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!topic Hello Cruel World
+17:53:16 :RJ45!RJ45@ubuntuirc.local TOPIC #devsupport :Hello Cruel World
+18:07:17 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+18:07:17 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+18:07:17 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+18:07:17 :ubuntuirc.local NOTICE AUTH :*** Found your hostname
+18:07:17 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+18:07:17 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+18:07:17 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+18:07:17 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+18:07:17 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+18:07:17 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+18:07:17 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+18:07:17 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+18:07:17 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+18:07:17 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+18:07:17 :ubuntuirc.local 254 RJ45 2 :channels formed
+18:07:17 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+18:07:17 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+18:07:17 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+18:07:17 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (9 connections received)
+18:07:17 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+18:07:17 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+18:07:17 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+18:07:17 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+18:07:17 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+18:07:17 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+18:07:17 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+18:07:17 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+18:07:17 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+18:07:17 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+18:07:17 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+18:07:17 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+18:07:17 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+18:07:17 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+18:07:17 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+18:07:17 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+18:07:17 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+18:07:17 :ubuntuirc.local 372 RJ45 :-             `""""    
+18:07:17 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+18:07:17 :RJ45!RJ45@ubuntuirc.local MODE RJ45 :+i
+18:10:24 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+18:10:24 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+18:10:24 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+18:10:24 :ubuntuirc.local NOTICE AUTH :*** Found your hostname
+18:10:24 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+18:10:24 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+18:10:24 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+18:10:24 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+18:10:24 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+18:10:24 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+18:10:24 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+18:10:24 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+18:10:24 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+18:10:24 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+18:10:24 :ubuntuirc.local 254 RJ45 2 :channels formed
+18:10:24 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+18:10:24 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+18:10:24 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+18:10:24 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (10 connections received)
+18:10:24 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+18:10:24 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+18:10:24 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+18:10:24 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+18:10:24 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+18:10:24 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+18:10:24 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+18:10:24 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+18:10:24 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+18:10:24 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+18:10:24 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+18:10:24 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+18:10:24 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+18:10:24 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+18:10:24 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+18:10:24 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+18:10:24 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+18:10:24 :ubuntuirc.local 372 RJ45 :-             `""""    
+18:10:24 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+18:10:24 :RJ45!RJ45@ubuntuirc.local MODE RJ45 :+i
+18:11:50 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+18:11:50 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+18:11:50 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+18:11:50 :ubuntuirc.local NOTICE AUTH :*** Found your hostname
+18:11:50 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+18:11:50 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+18:11:50 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+18:11:50 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+18:11:50 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+18:11:50 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+18:11:50 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+18:11:50 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+18:11:50 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+18:11:50 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+18:11:50 :ubuntuirc.local 254 RJ45 2 :channels formed
+18:11:50 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+18:11:50 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+18:11:50 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+18:11:50 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (11 connections received)
+18:11:50 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+18:11:50 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+18:11:50 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+18:11:50 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+18:11:50 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+18:11:50 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+18:11:50 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+18:11:50 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+18:11:50 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+18:11:50 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+18:11:50 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+18:11:50 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+18:11:50 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+18:11:50 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+18:11:50 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+18:11:50 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+18:11:50 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+18:11:50 :ubuntuirc.local 372 RJ45 :-             `""""    
+18:11:50 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+18:11:50 :RJ45!RJ45@ubuntuirc.local MODE RJ45 :+i
+18:16:55 PING :ubuntuirc.local
+18:22:00 PING :ubuntuirc.local
+18:27:05 PING :ubuntuirc.local
+18:32:10 PING :ubuntuirc.local
+18:37:15 PING :ubuntuirc.local
+18:42:20 PING :ubuntuirc.local
+18:46:38 :allansw!allansw@172.17.1.5 PRIVMSG RJ45 :!join #devsupport
+18:46:38 :RJ45!RJ45@ubuntuirc.local JOIN :#devsupport
+18:46:38 :ubuntuirc.local 332 RJ45 #devsupport :Hello Cruel World
+18:46:38 :ubuntuirc.local 333 RJ45 #devsupport RJ45!RJ45@ubuntuirc.local 1376934796
+18:46:38 :ubuntuirc.local 353 RJ45 = #devsupport :RJ45 @allansw
+18:46:38 :ubuntuirc.local 366 RJ45 #devsupport :End of /NAMES list.
+18:46:43 :allansw!allansw@172.17.1.5 MODE #devsupport +o RJ45
+18:46:50 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!deop allansw 
+18:46:50 :RJ45!RJ45@ubuntuirc.local MODE #devsupport -o allansw
+18:47:13 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!op allansw 
+18:47:13 :RJ45!RJ45@ubuntuirc.local MODE #devsupport +o allansw
+18:47:18 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+18:47:46 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!k2 test@amazon.com
+18:52:04 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+18:52:10 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!coffee
+18:52:17 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!coffee allansw 
+18:52:40 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help coffee
+18:52:47 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!coffee
+18:52:50 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!coffee allansw 
+18:53:31 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!coffee allansw 
+18:54:15 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!cycle
+18:54:16 :RJ45!RJ45@ubuntuirc.local PART #devsupport
+18:54:16 :RJ45!RJ45@ubuntuirc.local JOIN :#devsupport
+18:54:16 :ubuntuirc.local 332 RJ45 #devsupport :Hello Cruel World
+18:54:16 :ubuntuirc.local 333 RJ45 #devsupport RJ45!RJ45@ubuntuirc.local 1376934796
+18:54:16 :ubuntuirc.local 353 RJ45 = #devsupport :RJ45 @allansw
+18:54:16 :ubuntuirc.local 366 RJ45 #devsupport :End of /NAMES list.
+18:54:25 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!op RJ45 
+18:54:25 :ubuntuirc.local 482 RJ45 #devsupport :You're not channel operator
+18:54:30 :allansw!allansw@172.17.1.5 MODE #devsupport +o RJ45
+18:55:30 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!deop RJ45 
+18:55:30 :RJ45!RJ45@ubuntuirc.local MODE #devsupport -o RJ45
+18:55:37 :allansw!allansw@172.17.1.5 MODE #devsupport +o RJ45
+18:55:42 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!voice RJ45 
+18:55:42 :RJ45!RJ45@ubuntuirc.local MODE #devsupport +v RJ45
+18:56:14 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!deop RJ45 
+18:56:14 :RJ45!RJ45@ubuntuirc.local MODE #devsupport -o RJ45
+18:56:20 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!op RJ45 
+18:56:20 :ubuntuirc.local 482 RJ45 #devsupport :You're not channel operator
+18:56:28 :allansw!allansw@172.17.1.5 MODE #devsupport +o RJ45
+18:56:34 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!devoice RJ45 
+18:56:34 :RJ45!RJ45@ubuntuirc.local MODE #devsupport -v RJ45
+18:56:42 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!todo
+18:57:03 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!todo add Update RJ45 on AWS
+18:57:08 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!todo list
+18:57:19 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!todo search RJ45
+18:57:26 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!nick
+18:57:32 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+18:58:56 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!coffee allansw 
+19:01:08 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+19:01:08 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+19:01:08 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+19:01:08 :ubuntuirc.local NOTICE AUTH :*** Found your hostname
+19:01:08 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+19:01:08 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+19:01:08 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+19:01:08 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+19:01:08 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+19:01:08 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+19:01:08 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+19:01:08 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+19:01:08 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+19:01:08 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+19:01:08 :ubuntuirc.local 254 RJ45 2 :channels formed
+19:01:08 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+19:01:08 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+19:01:08 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+19:01:08 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (12 connections received)
+19:01:08 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+19:01:08 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+19:01:08 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+19:01:08 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+19:01:08 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+19:01:08 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+19:01:08 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+19:01:08 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+19:01:08 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+19:01:08 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+19:01:08 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+19:01:08 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+19:01:08 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+19:01:08 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+19:01:08 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+19:01:08 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+19:01:08 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+19:01:08 :ubuntuirc.local 372 RJ45 :-             `""""    
+19:01:08 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+19:01:08 :RJ45!RJ45@ubuntuirc.local MODE RJ45 :+i
+19:06:10 PING :ubuntuirc.local
+19:08:29 :allansw!allansw@172.17.1.5 PRIVMSG RJ45 :!join #devsupport
+19:08:29 :RJ45!RJ45@ubuntuirc.local JOIN :#devsupport
+19:08:29 :ubuntuirc.local 332 RJ45 #devsupport :Hello Cruel World
+19:08:29 :ubuntuirc.local 333 RJ45 #devsupport RJ45!RJ45@ubuntuirc.local 1376934796
+19:08:29 :ubuntuirc.local 353 RJ45 = #devsupport :RJ45 @allansw
+19:08:29 :ubuntuirc.local 366 RJ45 #devsupport :End of /NAMES list.
+19:08:39 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!todo list
+19:09:11 :allansw!allansw@172.17.1.5 MODE #devsupport +o RJ45
+19:09:16 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!coffee allansw 
+19:09:21 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+19:10:02 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!coffee allansw 
+19:10:16 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help coffee
+19:10:57 :ubuntuirc.local NOTICE AUTH :*** Looking up your hostname...
+19:10:57 :ubuntuirc.local NOTICE AUTH :*** Checking Ident
+19:10:57 :ubuntuirc.local NOTICE AUTH :*** No Ident response
+19:10:57 :ubuntuirc.local NOTICE AUTH :*** Found your hostname
+19:10:57 :ubuntuirc.local NOTICE RJ45 :*** Spoofing your IP. congrats.
+19:10:57 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from K/D/G lines. congrats.
+19:10:57 :ubuntuirc.local NOTICE RJ45 :*** You are exempt from user limits. congrats.
+19:10:57 :ubuntuirc.local 001 RJ45 :Welcome to the debian Internet Relay Chat Network RJ45
+19:10:57 :ubuntuirc.local 002 RJ45 :Your host is ubuntuirc.local[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+19:10:57 :ubuntuirc.local 003 RJ45 :This server was created Oct 14 2011 at 17:59:41
+19:10:57 :ubuntuirc.local 004 RJ45 ubuntuirc.local hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+19:10:57 :ubuntuirc.local 005 RJ45 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=debian MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+19:10:57 :ubuntuirc.local 005 RJ45 CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK :are supported by this server
+19:10:57 :ubuntuirc.local 251 RJ45 :There are 0 users and 2 invisible on 1 servers
+19:10:57 :ubuntuirc.local 254 RJ45 2 :channels formed
+19:10:57 :ubuntuirc.local 255 RJ45 :I have 2 clients and 0 servers
+19:10:57 :ubuntuirc.local 265 RJ45 :Current local users: 2  Max: 2
+19:10:57 :ubuntuirc.local 266 RJ45 :Current global users: 2  Max: 2
+19:10:57 :ubuntuirc.local 250 RJ45 :Highest connection count: 2 (2 clients) (13 connections received)
+19:10:57 :ubuntuirc.local 375 RJ45 :- ubuntuirc.local Message of the Day - 
+19:10:57 :ubuntuirc.local 372 RJ45 :-         _,met$$$$$gg.
+19:10:57 :ubuntuirc.local 372 RJ45 :-      ,g$$$$$$$$$$$$$$$P.
+19:10:57 :ubuntuirc.local 372 RJ45 :-    ,g$$P""       """Y$$.".  
+19:10:57 :ubuntuirc.local 372 RJ45 :-   ,$$P'              `$$$.
+19:10:57 :ubuntuirc.local 372 RJ45 :- ',$$P       ,ggs.     `$$b:
+19:10:57 :ubuntuirc.local 372 RJ45 :- `d$$'     ,$P"'   .    $$$ 
+19:10:57 :ubuntuirc.local 372 RJ45 :-  $$P      d$'     ,    $$P 
+19:10:57 :ubuntuirc.local 372 RJ45 :-  $$:      $$.   -    ,d$$'  
+19:10:57 :ubuntuirc.local 372 RJ45 :-  $$;      Y$b._   _,d$P'
+19:10:57 :ubuntuirc.local 372 RJ45 :-  Y$$.    `.`"Y$$$$P"'
+19:10:57 :ubuntuirc.local 372 RJ45 :-  `$$b      "-.__  
+19:10:57 :ubuntuirc.local 372 RJ45 :-   `Y$$b                     
+19:10:57 :ubuntuirc.local 372 RJ45 :-    `Y$$.
+19:10:57 :ubuntuirc.local 372 RJ45 :-      `$$b. 
+19:10:57 :ubuntuirc.local 372 RJ45 :-        `Y$$b.  
+19:10:57 :ubuntuirc.local 372 RJ45 :-          `"Y$b._   
+19:10:57 :ubuntuirc.local 372 RJ45 :-             `""""    
+19:10:57 :ubuntuirc.local 376 RJ45 :End of /MOTD command.
+19:10:57 :RJ45!RJ45@ubuntuirc.local MODE RJ45 :+i
+19:11:24 :allansw!allansw@172.17.1.5 PRIVMSG RJ45 :!join #devsupport
+19:11:24 :RJ45!RJ45@ubuntuirc.local JOIN :#devsupport
+19:11:24 :ubuntuirc.local 332 RJ45 #devsupport :Hello Cruel World
+19:11:24 :ubuntuirc.local 333 RJ45 #devsupport RJ45!RJ45@ubuntuirc.local 1376934796
+19:11:24 :ubuntuirc.local 353 RJ45 = #devsupport :RJ45 @allansw
+19:11:24 :ubuntuirc.local 366 RJ45 #devsupport :End of /NAMES list.
+19:11:27 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!coffee allansw 
+19:16:31 PING :ubuntuirc.local
+19:20:41 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+19:20:58 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+19:21:09 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help!pid
+19:21:13 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help pid
+19:21:16 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!pid
+19:22:15 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!time
+19:22:20 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!time SAST
+19:27:26 PING :ubuntuirc.local
+19:30:12 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!time SAST
+19:30:28 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!time Johannesburg
+19:30:41 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!time Africa/Johannesburg
+19:30:55 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!time GMT
+19:32:39 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+19:32:50 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help beats
+19:33:00 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!beats
+19:35:12 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!memory
+19:35:39 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help remove
+19:40:40 PING :ubuntuirc.local
+19:42:48 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+19:43:05 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+19:43:07 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+19:43:08 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+19:43:13 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!uptime
+19:43:30 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!permissions
+19:44:01 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!permissions allansw!allansw@irc.local admins
+19:44:24 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!permissions allansw!allansw@irc.local moderators
+19:44:33 :allansw!allansw@172.17.1.5 MODE #devsupport +o RJ45
+19:44:41 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!permissions allansw!allansw@irc.local admins
+19:44:47 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help permissions
+19:44:58 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!permissions admins
+19:45:10 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!permissions moderators
+19:45:57 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!permissions moderators
+19:46:00 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!permissions admins
+19:46:09 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!reload
+19:46:23 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!cycle
+19:46:23 :RJ45!RJ45@ubuntuirc.local PART #devsupport
+19:46:23 :RJ45!RJ45@ubuntuirc.local JOIN :#devsupport
+19:46:23 :ubuntuirc.local 332 RJ45 #devsupport :Hello Cruel World
+19:46:23 :ubuntuirc.local 333 RJ45 #devsupport RJ45!RJ45@ubuntuirc.local 1376934796
+19:46:23 :ubuntuirc.local 353 RJ45 = #devsupport :RJ45 @allansw
+19:46:23 :ubuntuirc.local 366 RJ45 #devsupport :End of /NAMES list.
+19:47:30 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!cycle
+19:47:31 :RJ45!RJ45@ubuntuirc.local PART #devsupport
+19:47:31 :RJ45!RJ45@ubuntuirc.local JOIN :#devsupport
+19:47:31 :ubuntuirc.local 332 RJ45 #devsupport :Hello Cruel World
+19:47:31 :ubuntuirc.local 333 RJ45 #devsupport RJ45!RJ45@ubuntuirc.local 1376934796
+19:47:31 :ubuntuirc.local 353 RJ45 = #devsupport :RJ45 @allansw
+19:47:31 :ubuntuirc.local 366 RJ45 #devsupport :End of /NAMES list.
+19:47:33 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!permissions admins
+19:47:43 :allansw!allansw@172.17.1.5 PRIVMSG #devsupport :!help
+19:52:45 PING :ubuntuirc.local
+19:57:50 PING :ubuntuirc.local
+20:02:55 PING :ubuntuirc.local
+20:08:00 PING :ubuntuirc.local
+20:13:05 PING :ubuntuirc.local
+20:18:10 PING :ubuntuirc.local
+20:23:15 PING :ubuntuirc.local
+20:28:20 PING :ubuntuirc.local
+20:31:55 :allansw!allansw@172.17.1.5 QUIT :Ping timeout: 240 seconds
+20:33:25 PING :ubuntuirc.local
+20:38:30 PING :ubuntuirc.local
+20:43:35 PING :ubuntuirc.local
+20:48:40 PING :ubuntuirc.local
+20:53:45 PING :ubuntuirc.local
+20:58:50 PING :ubuntuirc.local
+21:03:55 PING :ubuntuirc.local
+21:09:00 PING :ubuntuirc.local
+21:14:05 PING :ubuntuirc.local
+21:19:10 PING :ubuntuirc.local
+21:24:15 PING :ubuntuirc.local
+21:29:20 PING :ubuntuirc.local
+21:34:25 PING :ubuntuirc.local
+21:39:31 PING :ubuntuirc.local
+21:44:35 PING :ubuntuirc.local
+21:49:40 PING :ubuntuirc.local
+21:54:45 PING :ubuntuirc.local
+21:59:50 PING :ubuntuirc.local
+22:04:55 PING :ubuntuirc.local
+22:10:00 PING :ubuntuirc.local
+22:15:05 PING :ubuntuirc.local
+22:20:10 PING :ubuntuirc.local
+22:25:15 PING :ubuntuirc.local
+22:30:20 PING :ubuntuirc.local
+22:35:25 PING :ubuntuirc.local
+22:40:30 PING :ubuntuirc.local
+22:45:35 PING :ubuntuirc.local
+22:50:40 PING :ubuntuirc.local
+22:55:45 PING :ubuntuirc.local
+23:00:50 PING :ubuntuirc.local
+23:05:55 PING :ubuntuirc.local
+23:11:00 PING :ubuntuirc.local
+23:16:05 PING :ubuntuirc.local
+23:21:10 PING :ubuntuirc.local
+23:26:15 PING :ubuntuirc.local
+23:31:20 PING :ubuntuirc.local
+23:36:25 PING :ubuntuirc.local
+23:41:30 PING :ubuntuirc.local
+23:46:35 PING :ubuntuirc.local
+23:51:40 PING :ubuntuirc.local
+23:56:45 PING :ubuntuirc.local

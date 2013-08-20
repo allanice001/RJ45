@@ -1,0 +1,60 @@
+{
+  "connections":
+  {
+    "ubuntuirc":
+    {
+      "server": "127.0.0.1",
+      "nick": "RJ45",
+      "user": "RJ45",
+      "realname": "RJ45 - http://w/user:allansw/RJ45",
+      "nickserv_password": "devsupportcpt",
+      "channels": ["#devsupport-vpc", "#devsupport", "#devsupport-networking"],
+      "invite_join": true,
+      "auto_rejoin": false,
+      "command_prefix": "!"
+    }
+  },
+  "disabled_plugins": [],
+  "disabled_commands": [],
+  "acls": {},
+  "api_keys":
+  {
+    "tvdb": "",
+    "wolframalpha": "9622dabe24f95086",
+    "lastfm": "",
+    "rottentomatoes": "",
+    "soundcloud": "",
+    "twitter_consumer_key": "",
+    "twitter_consumer_secret": "",
+    "twitter_access_token": "",
+    "twitter_access_secret": "",
+    "wunderground": ""
+  },
+  "permissions": {
+    "admins": {
+      "perms": ["addfactoid", "delfactoid", "ignore", "botcontrol", "permissions_users", "op"],
+      "users": ["allansw!allansw@ubuntuirc.local", "RJ45!RJ45@ubuntuirc.local"]
+    },
+    "moderators": {
+      "perms": ["addfactoid", "delfactoid", "ignore"],
+      "users": ["examplec!user@example.com"]
+    }
+  },
+  "plugins":
+  {
+    "factoids":
+    {
+      "prefix": false
+    },
+    "ignore":
+    {
+      "ignored": []
+    }
+  },
+  "censored_strings":
+  [
+    "mypass",
+    "mysecret"
+  ]
+}
+
