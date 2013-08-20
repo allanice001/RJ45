@@ -5,13 +5,13 @@ Configurable IRC Bot
 
 ## About
 
-CloudBot is a Python IRC bot based on [Skybot](http://git.io/skybot) by [rmmh](http://git.io/rmmh).
+RJ45 is a Python IRC bot based on [CloudBot](http://github.com/CloudDev/CloudBot) by [CloudDev].
 
-## Getting and using CloudBot
+## Getting and using RJ45
 
 ### Download
 
-Get CloudBot at [https://github.com/ClouDev/CloudBot/zipball/develop](https://github.com/ClouDev/CloudBot/zipball/develop "Get CloudBot from Github!").
+Get RJ45 at [https://github.com/allanice001/RJ45](https://github.com/allanice001/RJ45" "Get CloudBot from Github!").
 
 Unzip the resulting file, and continue to read this document.
 
@@ -42,21 +42,19 @@ Once you have installed the required dependencies and renamed the config file, y
 
 On Windows you can usually just double-click `bot.py` to start the bot, as long as you have Python installed correctly.
 
-## Getting help with CloudBot
+## Getting help with RJ45
 
 ### Documentation
 
-To configure your CloudBot, visit the [Config Wiki Page](http://git.io/cloudbotircconfig).
+To configure your RJ45, visit the [Config Page](http://RJ45.linaccess.com/RJ45-ircconfig).
 
-To write your own plugins, visit the [Plugin Wiki Page](http://git.io/cloudbotircplugins).
+To write your own plugins, visit the [Plugin Wiki Page](http://RJ45.linaccess.com/RJ45-ircplugins).
 
-More at the [Wiki Main Page](http://git.io/cloudbotircwiki).
-
-(some of the information on the wiki is outdated and needs to be rewritten)
+More at the [Wiki Main Page](http://RJ45.linaccess.com/).
 
 ### Support
 
-The developers reside in [#CloudBot](irc://irc.esper.net/cloudbot) on [EsperNet](http://esper.net) and would be glad to help you.
+The developers reside at support.linaccess.com and would be glad to help you.
 
 If you think you have found a bug/have a idea/suggestion, please **open a issue** here on Github.
 
@@ -68,11 +66,7 @@ It **requires the Python module** lXML.
 The module `Enchant` is needed for the spellcheck plugin.
 The module `PyDNS` is needed for SRV record lookup in the mcping plugin.
 
-**Windows** users: Windows compatibility some plugins is **broken** (such as ping), but we do intend to add it. Eventually.
-
-## Example CloudBots
-
-You can find a number of example bots in [#CloudBot](irc://irc.esper.net/cloudbot "Connect via IRC to #CloudBot on irc.esper.net").
+**Windows** users: Windows compatibility some plugins is **broken**.
 
 ## License
 
