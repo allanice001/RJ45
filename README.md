@@ -46,9 +46,9 @@ On Windows you can usually just double-click `bot.py` to start the bot, as long 
 
 ### Documentation
 
-To configure your RJ45, visit the [Config Page](http://RJ45.linaccess.com/RJ45-ircconfig).
+To configure your RJ45, visit the [Config Page](http://RJ45.linaccess.com/wiki/RJ45-ircconfig).
 
-To write your own plugins, visit the [Plugin Wiki Page](http://RJ45.linaccess.com/RJ45-ircplugins).
+To write your own plugins, visit the [Plugin Wiki Page](http://RJ45.linaccess.com/wiki/RJ45-ircplugins).
 
 More at the [Wiki Main Page](http://RJ45.linaccess.com/).
 
