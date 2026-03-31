@@ -1,6 +1,6 @@
-BeautifulSoup==3.2.1
+BeautifulSoup==3.2.2
 lxml==3.1beta1
-pyenchant==1.6.5
+pyenchant==1.6.11
 pydns>=2.3.6
 BeautifulSoup4
 
